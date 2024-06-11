@@ -1,0 +1,4 @@
+from  dummy_package import greet
+
+greet("your_name")
+
